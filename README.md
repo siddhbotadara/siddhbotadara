@@ -2,7 +2,7 @@
   <img src="divider_line.svg" width="100%" height="5">
 </p>
 
-<img src="intro.png">
+<img src="Intro.png">
 
 ### 🌟 About Me  
 

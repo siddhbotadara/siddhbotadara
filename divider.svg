@@ -1,14 +1,68 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 10" preserveAspectRatio="none">
+<svg width="100%" height="20" viewBox="0 0 1200 20" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="rgbLineGrad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#ff0000">
-        <animate attributeName="stop-color" values="#ff0000;#00ff00;#0000ff;#ff0000" dur="5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#0000ff">
-        <animate attributeName="stop-color" values="#0000ff;#ff0000;#00ff00;#0000ff" dur="5s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
+    <!-- Define one LED -->
+    <circle id="led" cx="0" cy="10" r="6" fill="red" filter="url(#glow)">
+      <animate attributeName="fill"
+        values="red;orange;yellow;lime;cyan;blue;magenta;red"
+        dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Glow effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <line x1="0" y1="5" x2="800" y2="5" stroke="url(#rgbLineGrad)" stroke-width="5" stroke-linecap="round"/>
+  <!-- Repeat LEDs across the strip -->
+  <g>
+    <!-- Generate ~30 LEDs across width -->
+    <use href="#led" x="20"/>
+    <use href="#led" x="60">
+      <animate attributeName="fill" values="orange;yellow;lime;cyan;blue;magenta;red;orange" dur="4s" begin="0.2s" repeatCount="indefinite"/>
+    </use>
+    <use href="#led" x="100">
+      <animate attributeName="fill" values="yellow;lime;cyan;blue;magenta;red;orange;yellow" dur="4s" begin="0.4s" repeatCount="indefinite"/>
+    </use>
+    <use href="#led" x="140">
+      <animate attributeName="fill" values="lime;cyan;blue;magenta;red;orange;yellow;lime" dur="4s" begin="0.6s" repeatCount="indefinite"/>
+    </use>
+    <use href="#led" x="180">
+      <animate attributeName="fill" values="cyan;blue;magenta;red;orange;yellow;lime;cyan" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </use>
+    <use href="#led" x="220">
+      <animate attributeName="fill" values="blue;magenta;red;orange;yellow;lime;cyan;blue" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </use>
+    <use href="#led" x="260">
+      <animate attributeName="fill" values="magenta;red;orange;yellow;lime;cyan;blue;magenta" dur="4s" begin="1.2s" repeatCount="indefinite"/>
+    </use>
+
+    <!-- continue pattern until ~1200px -->
+    <use href="#led" x="300"/>
+    <use href="#led" x="340"/>
+    <use href="#led" x="380"/>
+    <use href="#led" x="420"/>
+    <use href="#led" x="460"/>
+    <use href="#led" x="500"/>
+    <use href="#led" x="540"/>
+    <use href="#led" x="580"/>
+    <use href="#led" x="620"/>
+    <use href="#led" x="660"/>
+    <use href="#led" x="700"/>
+    <use href="#led" x="740"/>
+    <use href="#led" x="780"/>
+    <use href="#led" x="820"/>
+    <use href="#led" x="860"/>
+    <use href="#led" x="900"/>
+    <use href="#led" x="940"/>
+    <use href="#led" x="980"/>
+    <use href="#led" x="1020"/>
+    <use href="#led" x="1060"/>
+    <use href="#led" x="1100"/>
+    <use href="#led" x="1140"/>
+    <use href="#led" x="1180"/>
+  </g>
 </svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="zigGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00ff95">
+        <animate attributeName="stop-color" values="#00ff95;#00d9ff;#ff6b6b;#00ff95" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#00d9ff">
+        <animate attributeName="stop-color" values="#00d9ff;#ff6b6b;#00ff95;#00d9ff" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+
+  <!-- Zig-zag path -->
+  <path d="M0,30 L100,10 L200,50 L300,10 L400,50 L500,10 L600,50 L700,10 L800,30"
+        fill="none"
+        stroke="url(#zigGrad)"
+        stroke-width="4"
+        stroke-dasharray="60 40">
+    <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="3s" repeatCount="indefinite"/>
+  </path>
+</svg>

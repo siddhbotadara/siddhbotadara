@@ -119,13 +119,12 @@
   <img src="divide.svg" width="100%" height="7">
 </p>
 
-<p align="center">
+<div align="center">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github-readme-stats.vercel.app/api?username=siddhbotadara&show_icons=true&theme=radical" alt="GitHub Stats" width="600"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhbotadara&theme=radical" alt="GitHub Streak" width="600"/>
   </div>
-</p>
-
+</div>
 
 <br>
 
@@ -138,6 +137,34 @@
 
 <br>
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="divide.svg" width="100%" height="7">
+</p>
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=siddhbotadara&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+<br>
+
+## ✍️ Quote
+<p align="center">
+  <img src="divide.svg" width="100%" height="7">
+</p>
+
+<div align="center">
+
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=siddhbotadara&icon=0&color=0)](https://visitcount.itsvg.in)
+
 ### 📫 Connect with me  
 <p align="center">
   <img src="divide.svg" width="100%" height="7">
@@ -146,7 +173,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/siddhbotadara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddhbotadara24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" /></a>
 </p>
 
 <p align="center">

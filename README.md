@@ -26,7 +26,7 @@
 - ⚡ Fun fact: **I love creating unique and creative projects that no one has ever done before.**
 
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divide.svg" width="100%" height="5">
 </p>
 
 ## 💻 My Tech Stack
@@ -109,7 +109,7 @@
 </p>
 
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divide.svg" width="100%" height="5">
 </p>
 
 ## 🚀 GitHub Stats  
@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divide.svg" width="100%" height="5">
 </p>
 
 ## 📈 Contribution Snake  
@@ -130,7 +130,7 @@
 </p>
 
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divide.svg" width="100%" height="5">
 </p>
 
 

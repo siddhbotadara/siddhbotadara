@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="neonGrad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00f0ff">
-        <animate attributeName="stop-color" values="#00f0ff;#ff00ff;#00ff95;#00f0ff" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="techPulseGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00ffea">
+        <animate attributeName="stop-color" values="#00ffea;#ff3cff;#3cffd1;#00ffea" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#ff00ff">
-        <animate attributeName="stop-color" values="#ff00ff;#00ff95;#00f0ff;#ff00ff" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#ff3cff">
+        <animate attributeName="stop-color" values="#ff3cff;#3cffd1;#00ffea;#ff3cff" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
+    <filter id="glowPulse" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
@@ -17,13 +17,9 @@
     </filter>
   </defs>
 
-  <path d="M0,20 L100,10 L150,30 L250,10 L350,30 L450,10 L550,30 L650,10 L750,30 L800,20"
-        fill="none"
-        stroke="url(#neonGrad)"
-        stroke-width="4"
-        stroke-linecap="round"
-        stroke-dasharray="60 40"
-        filter="url(#glow)">
-    <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="3s" repeatCount="indefinite"/>
-  </path>
+  <!-- Decorative abstract tech shapes -->
+  <g stroke="url(#techPulseGrad)" stroke-width="4" fill="none" filter="url(#glowPulse)">
+    <path d="M0,20 L50,10 L80,30 L120,15 L160,25 L200,10 L240,30 L280,12 L320,28 L360,15 L400,25 L440,10 L480,30 L520,12 L560,28 L600,15 L640,25 L680,10 L720,30 L760,12 L800,20"/>
+    <path d="M0,25 L50,15 L80,35 L120,20 L160,30 L200,15 L240,35 L280,18 L320,32 L360,20 L400,30 L440,15 L480,35 L520,18 L560,32 L600,20 L640,30 L680,15 L720,35 L760,18 L800,25"/>
+  </g>
 </svg>

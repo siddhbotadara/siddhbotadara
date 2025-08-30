@@ -9,13 +9,13 @@
 ### 🌟 About Me  
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=I%E2%80%99ve+loved+building+since+childhood&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=I%E2%80%99ve+loved+building+since+childhood&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Starting+with+hardware+and+embedded+systems&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Starting+with+hardware+and+embedded+systems&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Over+time,+I+realized+software+is+the+magic+that+brings+ideas+to+life&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Over+time,+I+realized+software+is+the+magic+that+brings+ideas+to+life&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Today,+I+don%E2%80%99t+just+build+projects%E2%80%94I+craft+products+that+solve+real+problems+and+push+boundaries&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200%&lines=Today,+I+don%E2%80%99t+just+build+projects%E2%80%94I+craft+products+that+solve+real+problems+and+push+boundaries&repeat=false">
 </p>
 
 

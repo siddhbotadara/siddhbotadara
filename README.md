@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="Intro.png" height="500">
+  <img src="Intro.png" height="400">
 </p>
 
 ### 🌟 About Me  

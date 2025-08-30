@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divider_line.svg" width="100%" height="15">
 </p>
 
 <p align="center">
@@ -7,6 +7,9 @@
 </p>
 
 ## 🌟 About Me  
+<p align="center">
+  <img src="divide.svg" width="100%" height="7">
+</p>
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=I%E2%80%99ve+loved+building+since+childhood&repeat=false">
@@ -25,11 +28,12 @@
 - 👯 I’m looking to collaborate on **Web Development and Game Development projects**  
 - ⚡ Fun fact: **I love creating unique and creative projects that no one has ever done before.**
 
-<p align="center">
-  <img src="divide.svg" width="100%" height="5">
-</p>
+<br>
 
 ## 💻 My Tech Stack
+<p align="center">
+  <img src="divide.svg" width="100%" height="7">
+</p>
 
 <br>
 
@@ -108,33 +112,40 @@
 
 </p>
 
-<p align="center">
-  <img src="divide.svg" width="100%" height="5">
-</p>
+<br>
 
 ## 🚀 GitHub Stats  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siddhbotadara&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhbotadara&theme=radical" alt="streak" />
+  <img src="divide.svg" width="100%" height="7">
 </p>
 
 <p align="center">
-  <img src="divide.svg" width="100%" height="5">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=siddhbotadara&show_icons=true&theme=radical" alt="GitHub Stats" width="600"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddhbotadara&theme=radical" alt="GitHub Streak" width="600"/>
+  </div>
 </p>
+
+
+<br>
 
 ## 📈 Contribution Snake  
-
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="divide.svg" width="100%" height="7">
 </p>
 
 <p align="center">
-  <img src="divide.svg" width="100%" height="5">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=siddhbotadara" alt="GitHub Contribution Snake"/>
 </p>
 
+
+
+<br>
 
 ### 📫 Connect with me  
+<p align="center">
+  <img src="divide.svg" width="100%" height="7">
+</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
@@ -143,23 +154,5 @@
 </p>
 
 <p align="center">
-  <img src="divider_line.svg" width="100%" height="5">
+  <img src="divider_line.svg" width="100%" height="15">
 </p>
-
-
-
-
-<!--
-**siddhbotadara/siddhbotadara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

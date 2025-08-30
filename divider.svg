@@ -1,21 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" preserveAspectRatio="none">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 40" preserveAspectRatio="none">
   <defs>
-    <linearGradient id="zigGrad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00ff95">
-        <animate attributeName="stop-color" values="#00ff95;#00d9ff;#ff6b6b;#00ff95" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="neonGrad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#00f0ff">
+        <animate attributeName="stop-color" values="#00f0ff;#ff00ff;#00ff95;#00f0ff" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#00d9ff">
-        <animate attributeName="stop-color" values="#00d9ff;#ff6b6b;#00ff95;#00d9ff" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#ff00ff">
+        <animate attributeName="stop-color" values="#ff00ff;#00ff95;#00f0ff;#ff00ff" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
 
-  <!-- Zig-zag path -->
-  <path d="M0,30 L100,10 L200,50 L300,10 L400,50 L500,10 L600,50 L700,10 L800,30"
+  <path d="M0,20 L100,10 L150,30 L250,10 L350,30 L450,10 L550,30 L650,10 L750,30 L800,20"
         fill="none"
-        stroke="url(#zigGrad)"
+        stroke="url(#neonGrad)"
         stroke-width="4"
-        stroke-dasharray="60 40">
+        stroke-linecap="round"
+        stroke-dasharray="60 40"
+        filter="url(#glow)">
     <animate attributeName="stroke-dashoffset" from="0" to="-200" dur="3s" repeatCount="indefinite"/>
   </path>
 </svg>

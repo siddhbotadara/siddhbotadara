@@ -165,7 +165,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=siddhbotadara&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Connect with me  
+## 📫 Connect with me  
 <p align="center">
   <img src="divide.svg" width="100%" height="7">
 </p>
@@ -174,6 +174,12 @@
   <a href="https://linkedin.com/in/siddhbotadara"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:siddhbotadara24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
+
+<div align="center">
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=siddhbotadara.siddhbotadara)
+
+</div>
 
 <p align="center">
   <img src="divider_line.svg" width="100%" height="15">

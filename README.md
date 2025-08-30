@@ -134,11 +134,7 @@
   <img src="divide.svg" width="100%" height="7">
 </p>
 
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg?user=siddhbotadara" alt="GitHub Contribution Snake"/>
-</p>
-
-
+![snake gif](https://github.com/siddhbotadara/siddhbotadara/blob/output/github-snake-dark.svg)
 
 <br>
 

@@ -9,10 +9,15 @@
 ### 🌟 About Me  
 
 <p align="left">
-<span style="font-family: 'Fira Code', monospace; color:#00F79D; font-size:24px;">
-    I’ve loved building since childhood, starting with hardware and embedded systems. Over time, I realized software is the magic that brings ideas to life. Today, I don’t just build projects—I craft products that solve real problems and push boundaries.
-</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=I%E2%80%99ve+loved+building+since+childhood&repeat=false">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Starting+with+hardware+and+embedded+systems&repeat=false">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Over+time,+I+realized+software+is+the+magic+that+brings+ideas+to+life&repeat=false">
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00F79D&width=800&lines=Today,+I+don%E2%80%99t+just+build+projects%E2%80%94I+craft+products+that+solve+real+problems+and+push+boundaries&repeat=false">
 </p>
+
 
 - 🔭 I’m currently working on **IoT + Full Stack Projects**  
 - 🌱 I’m exploring **other web technologies and AI & Machine Learning**

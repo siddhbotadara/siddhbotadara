@@ -34,145 +34,145 @@
 <p align="center">
 
 <b style="font-size:22px">Core</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=python" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Python</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=python" height="34"/>
+  <span style="font-size:18px;">Python</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=java" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Java</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=java" height="34"/>
+  <span style="font-size:18px;">Java</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=js" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">JavaScript</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=js" height="34"/>
+  <span style="font-size:18px;">JavaScript</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">Frontend</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=react" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">React</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=react" height="34"/>
+  <span style="font-size:18px;">React</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=tailwind" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Tailwind CSS</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34"/>
+  <span style="font-size:18px;">Tailwind CSS</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=html" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">HTML</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=html" height="34"/>
+  <span style="font-size:18px;">HTML</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=css" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">CSS</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=css" height="34"/>
+  <span style="font-size:18px;">CSS</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">Backend</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Node.js</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34"/>
+  <span style="font-size:18px;">Node.js</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=django" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Django</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=django" height="34"/>
+  <span style="font-size:18px;">Django</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://cdn.simpleicons.org/fastify" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Fastify</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/fastify" height="34"/>
+  <span style="font-size:18px;">Fastify</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">REST APIs</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="34"/>
+  <span style="font-size:18px;">REST APIs</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">Database</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=postgres" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">PostgreSQL</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=postgres" height="34"/>
+  <span style="font-size:18px;">PostgreSQL</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=mongodb" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">MongoDB</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34"/>
+  <span style="font-size:18px;">MongoDB</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=mysql" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">MySQL</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="34"/>
+  <span style="font-size:18px;">MySQL</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=redis" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Redis</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=redis" height="34"/>
+  <span style="font-size:18px;">Redis</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=supabase" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Supabase</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=supabase" height="34"/>
+  <span style="font-size:18px;">Supabase</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">AI</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Google_Gemini_logo.svg" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Google Gemini</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75FF" height="34"/>
+  <span style="font-size:18px;">Google Gemini</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Scikit-learn</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34"/>
+  <span style="font-size:18px;">Scikit-learn</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Pygame</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" height="34"/>
+  <span style="font-size:18px;">Pygame</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">Cloud & DevOps</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=aws" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">AWS</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=aws" height="34"/>
+  <span style="font-size:18px;">AWS</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=docker" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Docker</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=docker" height="34"/>
+  <span style="font-size:18px;">Docker</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Kubernetes</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="34"/>
+  <span style="font-size:18px;">Kubernetes</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">CI/CD</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="34"/>
+  <span style="font-size:18px;">CI/CD</span>
 </span>
 
 <br>
 
 <b style="font-size:22px">Tools</b><br>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=git" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Git</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=git" height="34"/>
+  <span style="font-size:18px;">Git</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=github" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">GitHub</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=github" height="34"/>
+  <span style="font-size:18px;">GitHub</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=vercel" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Vercel</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=vercel" height="34"/>
+  <span style="font-size:18px;">Vercel</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://cdn.simpleicons.org/render/46E3B7" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Render</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="34"/>
+  <span style="font-size:18px;">Render</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=vscode" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">VS Code</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=vscode" height="34"/>
+  <span style="font-size:18px;">VS Code</span>
 </span>
-<span style="display:inline-block; vertical-align:middle; margin:6px;">
-  <img src="https://skillicons.dev/icons?i=arduino" height="34" style="vertical-align:middle;"/> 
-  <span style="font-size:18px; vertical-align:middle;">Arduino</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=arduino" height="34"/>
+  <span style="font-size:18px;">Arduino</span>
 </span>
 
 </p>

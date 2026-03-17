@@ -12,103 +12,148 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=I%E2%80%99ve+loved+building+since+childhood&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Building+scalable+full-stack+systems+and+AI-powered+applications&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Starting+with+hardware+and+embedded+systems&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Working+across+frontend,+backend,+databases,+and+intelligent+pipelines&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Over+time,+I+realized+software+is+the+magic+that+brings+ideas+to+life&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Designing+distributed+systems+with+real-time+processing+and+adaptive+logic&repeat=false">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200%&lines=Today,+I+don%E2%80%99t+just+build+projects%E2%80%94I+craft+products+that+solve+real+problems+and+push+boundaries&repeat=false">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&color=00F79D&width=1200&lines=Focused+on+high-performance,+scalable+software+that+solves+real-world+problems&repeat=false">
 </p>
 
 
-- 🔭 I’m currently working on **IoT + Full Stack Projects**  
-- 🌱 I’m exploring **other web technologies and AI & Machine Learning**
-- 💬 Ask me about **Web Dev, APIs, or Java**  
-- 👯 I’m looking to collaborate on **Web Development and Game Development projects**  
-- ⚡ Fun fact: **I love creating unique and creative projects that no one has ever done before.**
+- 🔭 Currently building **AI-powered full-stack systems and real-time distributed applications**
+- ⚙️ Working with **React, Node.js, Django, PostgreSQL, and scalable backend architectures**
+- 💬 Ask me about **system design, APIs, backend engineering, or AI pipelines**
+- 🤝 Open to collaborating on **high-impact full-stack, AI, or system-level projects**
+- ⚡ Fun fact: **I enjoy engineering systems that combine software, hardware, and real-world data**
 
 <br>
 
 ## 💻 My Tech Stack
 <p align="center">
-  <img src="divide.svg" width="100%" height="7">
-</p>
+
+<b style ="font-size:22px">Core</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=python" height="34"/> <span style="font-size:18px;">Python</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=java" height="34"/> <span style="font-size:18px;">Java</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=js" height="34"/> <span style="font-size:18px;">JavaScript</span>
+</span>
 
 <br>
 
-<p align="center">
-
-<b>🟢 Languages:</b><br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
-<br>
-
-<b>🎨 Front-End:</b><br>
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<b style ="font-size:22px">Frontend</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=react" height="34"/> <span style="font-size:18px;">React</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="34"/> <span style="font-size:18px;">Tailwind CSS</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=html" height="34"/> <span style="font-size:18px;">HTML</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=css" height="34"/> <span style="font-size:18px;">CSS</span>
+</span>
 
 <br>
 
-<b>⚙️ Back-End / Frameworks:</b><br>
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-000000?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-<b>💾 Databases:</b><br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br>
-
-<b>☁️ Deployment & Cloud:</b><br>
-
-![Render](https://img.shields.io/badge/Render-37474F?style=for-the-badge&logo=render&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
+<b style ="font-size:22px">Backend</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34"/> <span style="font-size:18px;">Node.js</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=django" height="34"/> <span style="font-size:18px;">Django</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/fastify/FFFFFF" height="34"/> 
+  <span style="font-size:18px;">Fastify</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/openapiinitiative/6BA539" height="34"/> 
+  <span style="font-size:18px;">RESTful APIs</span>
+</span>
 
 <br>
 
-<b>🛠️ Dev Tools & Libraries:</b><br>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pygame](https://img.shields.io/badge/Pygame-000000?style=for-the-badge&logo=python&logoColor=white)
-![PyArmor](https://img.shields.io/badge/PyArmor-FF6600?style=for-the-badge&logo=python&logoColor=white)
-![PySerial](https://img.shields.io/badge/PySerial-013243?style=for-the-badge&logo=python&logoColor=white)
-
-<br>
-
-<b>🤖 Hardware & Microcontroller:</b><br>
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Sensors](https://img.shields.io/badge/Sensors-6FCF97?style=for-the-badge&logo=maker&logoColor=white)
-
-
-<br>
-
-<b>🖌️ Design / CAD:</b><br>
-
-![SolidWorks](https://img.shields.io/badge/SolidWorks-070CAD?style=for-the-badge&logo=solidworks&logoColor=white)
+<b style ="font-size:22px">Database</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=postgres" height="34"/> <span style="font-size:18px;">PostgreSQL</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="34"/> <span style="font-size:18px;">MongoDB</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=mysql" height="34"/> 
+  <span style="font-size:18px;">MySQL</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=redis" height="34"/> <span style="font-size:18px;">Redis</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=supabase" height="34"/> 
+  <span style="font-size:18px;">Supabase</span>
+</span>
 
 <br>
 
-<b>📦 Installers / Packaging:</b><br>
+<b style ="font-size:22px">AI</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBkPSJNMTIgMkMxMiAyIDEyLjUgOC41IDE1IDExQzE3LjUgMTMuNSAyNCAxNCAyNCAxNEMyNCAxNCAxNy41IDE0LjUgMTUgMTdDMTIuNSAxOS41IDEyIDI2IDEyIDI2QzEyIDI2IDExLjUgMTkuNSA5IDE3QzYuNSAxNC41IDAgMTQgMCAxNEMwIDE0IDYuNSAxMy41IDkgMTFDMTEuNSA4LjUgMTIgMiAxMiAyWiIgZmlsbD0idXJsKCNncmFkKSIvPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiB4MT0iMiIgeTE9IjIiIHgyPSIyMiIgeTI9IjIyIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VVbnNlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzRCQjRGQiIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiM2RTQ0RkYiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgo8L3N2Zz4=" height="34"/> 
+  <span style="font-size:18px; font-family: sans-serif;">Google Gemini API</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="34"/> 
+  <span style="font-size:18px;">Scikit-learn</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://www.pygame.org/docs/_static/pygame_logo.png" height="34"/> 
+</span>
 
-![PyInstaller](https://img.shields.io/badge/PyInstaller-F7DF1E?style=for-the-badge&logo=python&logoColor=white)
-![Inno Setup](https://img.shields.io/badge/Inno_Setup-000000?style=for-the-badge&logo=inno&logoColor=white)
+<br>
+
+<b style ="font-size:22px">Cloud & DevOps</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=aws" height="34"/> <span style="font-size:18px;">AWS</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=docker" height="34"/> <span style="font-size:18px;">Docker</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="34"/> <span style="font-size:18px;">Kubernetes</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="34"/> 
+  <span style="font-size:18px;">CI/CD</span>
+</span>
+
+<br>
+
+<b style ="font-size:22px">Tools</b><br>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=git" height="34"/> <span style="font-size:18px;">Git</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=github" height="34"/> <span style="font-size:18px;">GitHub</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=vercel" height="34"/> 
+  <span style="font-size:18px;">Vercel</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="34"/> 
+  <span style="font-size:18px;">Render</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=vscode" height="34"/> <span style="font-size:18px;">VS Code</span>
+</span>
+<span style="display:inline-flex; align-items:center; gap:8px; margin:6px;">
+  <img src="https://skillicons.dev/icons?i=arduino" height="34"/> <span style="font-size:18px;">Arduino</span>
+</span>
 
 </p>
 
